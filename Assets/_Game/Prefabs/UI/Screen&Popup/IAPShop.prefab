@@ -359,7 +359,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4757895466872207177, guid: 54cc83cdb9a773344b161a406ed7e3c0, type: 3}
       propertyPath: productID
-      value: snail_goi_1
+      value: hammer_goi_1
       objectReference: {fileID: 0}
     - target: {fileID: 6144306927436615844, guid: 54cc83cdb9a773344b161a406ed7e3c0, type: 3}
       propertyPath: m_Pivot.x
@@ -473,7 +473,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4757895466872207177, guid: 54cc83cdb9a773344b161a406ed7e3c0, type: 3}
       propertyPath: productID
-      value: snail_goi_2
+      value: hammer_goi_2
       objectReference: {fileID: 0}
     - target: {fileID: 6144306927436615844, guid: 54cc83cdb9a773344b161a406ed7e3c0, type: 3}
       propertyPath: m_Pivot.x
@@ -701,7 +701,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4757895466872207177, guid: 54cc83cdb9a773344b161a406ed7e3c0, type: 3}
       propertyPath: productID
-      value: snail_goi_3
+      value: hammer_goi_3
       objectReference: {fileID: 0}
     - target: {fileID: 6144306927436615844, guid: 54cc83cdb9a773344b161a406ed7e3c0, type: 3}
       propertyPath: m_Pivot.x
@@ -815,7 +815,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4757895466872207177, guid: 54cc83cdb9a773344b161a406ed7e3c0, type: 3}
       propertyPath: productID
-      value: snail_goi_4
+      value: hammer_goi_4
       objectReference: {fileID: 0}
     - target: {fileID: 6144306927436615844, guid: 54cc83cdb9a773344b161a406ed7e3c0, type: 3}
       propertyPath: m_Pivot.x

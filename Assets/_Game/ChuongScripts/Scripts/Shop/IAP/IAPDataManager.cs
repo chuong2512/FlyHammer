@@ -55,7 +55,7 @@ namespace ChuongCustom
     [Serializable]
     public class IAPData
     {
-        [IAPKey] public string productID;
+       public string productID;
         public string price;
     }
 
